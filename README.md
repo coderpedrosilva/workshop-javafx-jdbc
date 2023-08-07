@@ -20,4 +20,4 @@ de tabelas e exceções de validação são abordados no projeto, garantindo uma
 completa.
 
 Este projeto é um ponto de partida para ampliar o conhecimento  e criar aplicações desktop mais elaboradas 
-e personalizadas, faz parte do curso de Java do professor Nélio Alves, na Udemy. 
+e personalizadas, faz parte do curso de Java do professor Nélio Alves, presente na Udemy. 
