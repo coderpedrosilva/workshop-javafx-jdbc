@@ -6,9 +6,9 @@ public class Department implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 
-	private Integer id;
+	private Integer id; 
 	private String name;
-
+	
 	public Department() {
 	}
 
